@@ -1,8 +1,12 @@
 ## 孙圳的个人简历
 
-You can use the [editor on GitHub](https://github.com/SoilwaterSun/Soilwaterresume.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Curious about the unknown.
+毕业于重庆南开中学；
+就读于南开大学经济学院;
+ 2020级（大二）经济系本科生；
+ 主修经济学，辅修应用数学；
+ 经济学大类学习委员；
+ ABC/ABCD必修课专业第二；
 
 ### Markdown
 
