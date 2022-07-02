@@ -1,5 +1,6 @@
 ## 孙圳的个人简历
 
+###个人信息
 Curious about the unknown.
 
 毕业于重庆南开中学；
